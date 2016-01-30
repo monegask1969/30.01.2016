@@ -13,6 +13,5 @@ public class main_to_Test2 {
         Test2.Myinner a3 = a.new Myinner();
         a2.showinner();
         a3.showinner();
-        a.
     }
 }
